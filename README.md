@@ -32,7 +32,20 @@ methods = then,catch, upon resolving then the then method is fired and vise vers
 example: Fetch API, most web APIs return promises
 
 asynch/await --> promises that read good cause there is till chaining
-make synchronus code look synchronus 
+make synchronus code look synchronus 2018
+
+Node JS: is a hosting enviroment that allows Javascript to access network and servers
+FS,HHTP
+(36)
+Event Loops
+Queue and Stack
+queue.push(line) SHIFT
+stack(pancakes) POP
+
+
+
+
+
 
 
 
