@@ -42,6 +42,14 @@ Queue and Stack
 queue.push(line) SHIFT
 stack(pancakes) POP
 
+37
+the fs in node needs three thingsin response:
+1. res.writehead : response code + content type
+2. res.write to write the data
+3. res.end()
+
+
+
 
 
 
