@@ -43,10 +43,22 @@ queue.push(line) SHIFT
 stack(pancakes) POP
 
 37
-the fs in node needs three thingsin response:
+the fs in node needs three things  in response:
 1. res.writehead : response code + content type
 2. res.write to write the data
 3. res.end()
+
+38 
+types of http requests
+CRUD
+
+creating a new node project with express
+mkdir api-project
+cd into project npm iniy
+npm install express --save
+__dirname
+
+
 
 
 
