@@ -58,6 +58,13 @@ cd into project npm iniy
 npm install express --save
 __dirname
 
+to create .gitignore file
+
+code .gitignore then save
+add node_modules
+
+
+
 
 
 
